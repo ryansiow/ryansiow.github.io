@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-(/images/cv_resume.png){: width="100%" .center-image}
+![Resume](/images/cv_resume.png){: width="100%" .center-image}
