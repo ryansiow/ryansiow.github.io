@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Thesis"
-    url: /publications/
+  #- title: "Thesis"
+  #  url: /publications/
 
-  - title: "Work Certificate"
-    url: /talks/    
+  #- title: "Work Certificate"
+  #  url: /talks/    
 
   #- title: "Teaching"
   #  url: /teaching/    
